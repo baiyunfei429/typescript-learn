@@ -1,0 +1,1 @@
+const person: string = "bai"; // 注释
